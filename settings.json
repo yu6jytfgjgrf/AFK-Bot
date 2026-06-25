@@ -31,8 +31,7 @@
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "/register baghalibokhor baghalibokhor",
-      ]
+        "/register baghalibokhor baghalibokhor"
     },
     "chat-log": true,
     "auto-reconnect": true,
