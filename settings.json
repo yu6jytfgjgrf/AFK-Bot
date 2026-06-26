@@ -1,8 +1,8 @@
 {
-  "name": "GGMamadBosorly",
+  "name": "AFK-Bot",
   "bot-account": {
-    "username": "GGMamadBosorly",
-    "password": "khiarbokhor",
+    "username": "AFK-Bot",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "khiarbokhor"
+      "password": "KalePaziAhmad"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,10 +31,13 @@
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "/register baghalibokhor baghalibokhor"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
+      ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
